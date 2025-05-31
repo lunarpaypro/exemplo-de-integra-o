@@ -46,5 +46,5 @@ Dessa forma, o exemplo serve como um guia conceptual sólido que auxilia desenvo
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/seuusuario/exemplo-lunarpay-pro.git](https://github.com/lunarpaypro/exemplo-de-integra-o)
+   git clone https://github.com/lunarpaypro/exemplo-de-integra-o
    
